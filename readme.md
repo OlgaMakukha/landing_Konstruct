@@ -12,3 +12,6 @@
 - HTML
 - CSS
 - JavaScript
+
+## Ссылка
+https://olgamakukha.github.io/landing_Konstruct/
